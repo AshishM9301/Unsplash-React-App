@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Unsplash-React-App/static/css/main.c00f04db.chunk.css",
+    "main.js": "/Unsplash-React-App/static/js/main.cc51c3ec.chunk.js",
+    "main.js.map": "/Unsplash-React-App/static/js/main.cc51c3ec.chunk.js.map",
+    "runtime-main.js": "/Unsplash-React-App/static/js/runtime-main.3ee851e4.js",
+    "runtime-main.js.map": "/Unsplash-React-App/static/js/runtime-main.3ee851e4.js.map",
+    "static/js/2.3f040f9e.chunk.js": "/Unsplash-React-App/static/js/2.3f040f9e.chunk.js",
+    "static/js/2.3f040f9e.chunk.js.map": "/Unsplash-React-App/static/js/2.3f040f9e.chunk.js.map",
+    "index.html": "/Unsplash-React-App/index.html",
+    "precache-manifest.d63835f12dbb6daa342dbbf0c71a8e3b.js": "/Unsplash-React-App/precache-manifest.d63835f12dbb6daa342dbbf0c71a8e3b.js",
+    "service-worker.js": "/Unsplash-React-App/service-worker.js",
+    "static/css/main.c00f04db.chunk.css.map": "/Unsplash-React-App/static/css/main.c00f04db.chunk.css.map",
+    "static/js/2.3f040f9e.chunk.js.LICENSE.txt": "/Unsplash-React-App/static/js/2.3f040f9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ee851e4.js",
+    "static/js/2.3f040f9e.chunk.js",
+    "static/css/main.c00f04db.chunk.css",
+    "static/js/main.cc51c3ec.chunk.js"
+  ]
+}
